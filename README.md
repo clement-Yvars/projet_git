@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-Github
+Github and/where gitflow
 
 ## Start-up
 
