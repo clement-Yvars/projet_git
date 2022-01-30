@@ -1,32 +1,20 @@
 # project setting up a Repository on GITHUB
 
-## To start
-
-
-
 ### Prerequisites
 
-
-
-### Setup
-
-
+Github
 
 ## Start-up
 
-
+Github
 
 ## Made with
 
-
-## Contributing
-
-
+Github
 
 ## Versions
 
-**Latest stable version:** 5.0
-**Latest version:** 5.1
+**version:** 1.0
 
-## Auteurs
+## Author
 * **YVARS Clement** _alias_ [@clement-Yvars](https://github.com/clement-Yvars)
